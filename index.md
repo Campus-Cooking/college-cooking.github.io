@@ -46,12 +46,22 @@ The recipe search page allows students to explore a variety of meals and snacks,
 - A list of ingredients, prices, and sources
 - Dietary tags (e.g., vegan, gluten-free)
 - Estimated preparation time and servings
+![](images/add-recipe-page.png)
+![](images/search-recipe-page.png)
+
+### Recipe Pages and Community Blog
+
+The site will have places to browse community recipes and blog posts, and have a better view when clicking on a recipe.
 
 ![](images/recipe-page-1.png)
 
 ![](images/recipe-page-2.png)
 
 ![](images/recipe-page-3.png)
+
+### Login Page 
+Users can sign up or sign in to the application using their existing account, or create an account with their email and password.
+![](images/login-page.png)
 
 ### Vendor Contributions
 
