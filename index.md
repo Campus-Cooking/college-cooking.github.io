@@ -85,7 +85,7 @@ You can watch our Milestone 2 project board [here](https://github.com/orgs/Campu
 
 
 
-## Milestone 3 
+### Milestone 3 
 
 The purpose of Milestone 3 is to polish the codebase, address any remaining UI issues, and ensure a smooth user experience. This final pass involved debugging, enhancing styling, and improving overall functionality.
 
