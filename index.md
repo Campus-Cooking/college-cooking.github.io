@@ -90,6 +90,9 @@ You can watch our Milestone 2 project board [here](https://github.com/orgs/Campu
 The purpose of Milestone 3 is to polish the codebase, address any remaining UI issues, and ensure a smooth user experience. This final pass involved debugging, enhancing styling, and improving overall functionality.
 
 
+### GitHub Hosting Guidlines
+We are committed to adhering to GitHub's hosting guidelines by ensuring our repository complies with all terms of service and community standards. This includes using GitHub responsibly to store and share code, respecting intellectual property rights, maintaining appropriate content, and avoiding prohibited uses such as illegal, malicious, or harmful activities. By following these guidelines, we aim to foster a safe, collaborative, and professional environment for our project and the broader GitHub community.
+
 ## Deployment
 Our system has been deployed on Vercel, you can access it by clicking [here](https://campus-cooking.vercel.app/).
 
@@ -101,3 +104,5 @@ Campus Cooking is designed, created and built by [Anaya Cole](https://anayaemily
 
 #### Team Contract
 You can watch our team contract [here](https://docs.google.com/document/d/1IeZ3gzcvCw6sXPzIBjEe9HSV4btgJgGbPfj0qyVp7VA/edit?tab=t.0#heading=h.ahjfca2rpk54).
+
+
