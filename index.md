@@ -66,6 +66,9 @@ Local vendors can create profiles to list available ingredients, prices, and siz
 
 Admins have additional privileges, such as approving or editing recipes, managing vendor contributions, and ensuring the quality of user-generated content.
 
+### Github Organization
+
+Here is a link to our GitHub [organization](https://github.com/Campus-Cooking) associated with this project and inside it, the repositories
 
 ## Milestones
 
@@ -89,13 +92,51 @@ You can watch our Milestone 2 project board [here](https://github.com/orgs/Campu
 
 The purpose of Milestone 3 is to polish the codebase, address any remaining UI issues, and ensure a smooth user experience. This final pass involved debugging, enhancing styling, and improving overall functionality.
 
+You can watch our Milestone 2 project board [here](https://github.com/orgs/Campus-Cooking/projects/8).
+
+# Developer Guide
+
+## Overview
+
+This Developer Guide provides instructions for developers to set up, run, and modify the Campus Cooking application. Follow these steps to clone the repository, configure dependencies, and customize the system as needed.
+
+## Prerequisites
+
+Before setting up the project, ensure you have the following installed on your system:
+
+- **Node.js** (version 16 or above)
+- **npm** (Node Package Manager, bundled with Node.js)
+- **Git** (for version control)
+- **Vercel CLI** (optional, for deployment)
+
+## Setup Instructions
+
+### 1. Clone the Repository
+
+1. Open your terminal or command prompt.
+2. Run the following command to clone the repository:
+
+   ```bash
+   git clone https://github.com/Campus-Cooking/campus-cooking.git
+   
+### 2. Install dependencies
+1. Open your terminal or command prompt.
+2. Run the following command to clone the repository:
+   ```
+   npm install
+
+### 3. Start the development server:
+  ```
+  npm run dev
+ ```
+ 
+This will launch the application at http://localhost:3000.
 
 ### GitHub Hosting Guidlines
 We are committed to adhering to GitHub's hosting guidelines by ensuring our repository complies with all terms of service and community standards. This includes using GitHub responsibly to store and share code, respecting intellectual property rights, maintaining appropriate content, and avoiding prohibited uses such as illegal, malicious, or harmful activities. By following these guidelines, we aim to foster a safe, collaborative, and professional environment for our project and the broader GitHub community.
 
 ## Deployment
 Our system has been deployed on Vercel, you can access it by clicking [here](https://campus-cooking.vercel.app/).
-
 
 
 ## Team
