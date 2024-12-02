@@ -92,7 +92,7 @@ You can watch our Milestone 2 project board [here](https://github.com/orgs/Campu
 
 The purpose of Milestone 3 is to polish the codebase, address any remaining UI issues, and ensure a smooth user experience. This final pass involved debugging, enhancing styling, and improving overall functionality.
 
-You can watch our Milestone 2 project board [here](https://github.com/orgs/Campus-Cooking/projects/8).
+You can watch our Milestone 3 project board [here](https://github.com/orgs/Campus-Cooking/projects/8).
 
 # Developer Guide
 
@@ -130,9 +130,9 @@ Before setting up the project, ensure you have the following installed on your s
 
 ### 3. Start the development server:
 
-  ```
-  npm run dev
-  ```
+   ```
+   npm run dev
+   ```
  
 This will launch the application at http://localhost:3000.
 
