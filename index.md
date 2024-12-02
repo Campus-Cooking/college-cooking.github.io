@@ -116,19 +116,23 @@ Before setting up the project, ensure you have the following installed on your s
 1. Open your terminal or command prompt.
 2. Run the following command to clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/Campus-Cooking/campus-cooking.git
+    ```
    
 ### 2. Install dependencies
 1. Open your terminal or command prompt.
 2. Run the following command to clone the repository:
+
    ```
    npm install
+   ```
 
 ### 3. Start the development server:
+
   ```
   npm run dev
- ```
+  ```
  
 This will launch the application at http://localhost:3000.
 
