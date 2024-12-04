@@ -88,6 +88,12 @@ For Milestone 2, we will significantly enhance our system's functionality and qu
 
 You can watch our Milestone 2 project board [here](https://github.com/orgs/Campus-Cooking/projects/5/views/6).
 
+For Milestone 2 we have implemented these pages in our system:
+* Home Page
+* Log in and Sign up Page
+* View Recipe Page
+* Add Recipe Page (only accessible for logged in users)
+* Contact Page
 
 
 ### Milestone 3 
@@ -143,6 +149,9 @@ We are committed to adhering to GitHub's hosting guidelines by ensuring our repo
 
 ## Deployment
 Our system has been deployed on Vercel, you can access it by clicking [here](https://campus-cooking.vercel.app/).
+
+The app in production is successfully writing to database when signing up and adding recipes. It is successfully reading from database when logging in users.
+
 
 
 ## Team
