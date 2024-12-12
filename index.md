@@ -8,6 +8,7 @@
 * [User Guide](#user-guide)
 * [Milestones](#milestones)
 * [Deployment](#deployment)
+* [Community Feedback](#community-feedback)
 * [Team](#team)
 
 ## Overview
@@ -152,6 +153,7 @@ Our system has been deployed on Vercel, you can access it by clicking [here](htt
 
 The app in production is successfully writing to database when signing up and adding recipes. It is successfully reading from database when logging in users.
 
+## Community Feedback
 
 
 ## Team
