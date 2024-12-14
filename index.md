@@ -41,6 +41,7 @@ This page will also include a place to browse recipes and posts via the grid vie
 ![](images/landing-page-3.png)
 ![](images/landing-page-4.png)
 
+
 ### Recipe Search and Filters
 
 The recipe search page allows students to explore a variety of meals and snacks, with filters for dietary restrictions and ingredient availability. Each recipe page includes:
