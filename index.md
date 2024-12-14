@@ -34,8 +34,12 @@ This section provides an overview of Campus Cooking's main features and how stud
 ### Landing Page
 
 The landing page introduces new users to Campus Cooking, with easy navigation to sign up or sign in.
+This page will also include a place to browse recipes and posts via the grid view.
 
 ![](images/landing-page-1.png)
+![](images/landing-page-2.png)
+![](images/landing-page-3.png)
+![](images/landing-page-4.png)
 
 ### Recipe Search and Filters
 
@@ -44,26 +48,22 @@ The recipe search page allows students to explore a variety of meals and snacks,
 - A list of ingredients, prices, and sources
 - Dietary tags (e.g., vegan, gluten-free)
 - Estimated preparation time and servings
+User are also able to add their own recipes to the database via the add recipe page, which will be accessible only to logged in users, and the posts will be reviewed by admins when added to the database.
 ![](images/add-recipe-page.png)
-![](images/search-recipe-page.png)
-
-### Recipe Pages and Community Blog
-
-The site will have places to browse community recipes and blog posts, and have a better view when clicking on a recipe.
-
-![](images/recipe-page-1.png)
-
-![](images/recipe-page-2.png)
-
-![](images/recipe-page-4.png)
+![](images/search-recipe-page-1.png)
+![](images/search-recipe-page-2.png)
 
 ### Login Page 
 Users can sign up or sign in to the application using their existing account, or create an account with their email and password.
-![](images/login-page.png)
+![](images/login-signup-page.png)
 
-### Vendor Contributions
+### Contact Us Page
+Users can contact us as developers through the form, with suggestions for improvement, questions, or ideas for other appliances/filters the application could include.
+![](images/contact-us-page.png)
 
-Local vendors can create profiles to list available ingredients, prices, and sizes, which helps students easily find the ingredients they need nearby.
+### About Us Page
+Users can learn more about the developers and the purpose of the application.
+![](images/about-us-page.png)
 
 ### Admin Dashboard
 
