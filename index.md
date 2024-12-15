@@ -68,7 +68,13 @@ Users can learn more about the developers and the purpose of the application.
 
 ### Admin Dashboard
 
-Admins have additional privileges, such as approving or editing recipes, managing vendor contributions, and ensuring the quality of user-generated content.
+Admins have additional privileges. They get an overview over every recipes and can monitor them by deleting not appropriate recipes or editing them. 
+![](images/admin_monitor_page.png)
+
+![](images/admin_delete_recipe.png)
+
+![](images/admin_edit_recipe.png)
+
 
 ### Github Organization
 
