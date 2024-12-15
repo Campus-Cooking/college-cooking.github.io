@@ -156,6 +156,11 @@ The app in production is successfully writing to database when signing up and ad
 
 ## Community Feedback
 
+Users appreciate the clean, modern design and student-friendly approach, highlighting the focus on simple recipes that use basic kitchen appliances like microwaves and toaster ovens. Features like dietary filters, estimated costs, serving sizes, and step-by-step instructions make cooking approachable and affordable for students with limited time and resources.
+
+Users would like to see new features added in the future, like a "quick meals" or "5-ingredient recipes" section, difficulty ratings, nutritional information, and a way to save or favorite recipes. Adding community-driven elements like comments, reviews, and ratings could enhance engagement, while streamlined recipe submission and consistency in page layouts would improve usability.
+
+Overall, the feedback suggests that the site effectively solves a major problem for students by making cooking accessible and affordable. While there’s room for added functionality and community-building features, the core concept resonates well, making it a valuable resource for those new to cooking.
 
 ## Team
 
